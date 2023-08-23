@@ -15,7 +15,7 @@ group :production do
 end
 
 gem "sinatra", "2.0.2"
-gem "sinatra-activerecord", "2.0.13"
+gem "sinatra-activerecord", "2.0.14"
 gem "rake", "12.3.3"
 
 gem "braintree", "2.87.0"
