@@ -14,12 +14,12 @@ group :production do
   gem 'pg', '0.18.2'
 end
 
-gem "sinatra", "2.0.2"
-gem "sinatra-activerecord", "2.0.13"
+gem "sinatra", "2.0.3"
+gem "sinatra-activerecord", "2.0.14"
 gem "rake", "12.3.3"
 
 gem "braintree", "2.87.0"
 
-gem "unicorn", "4.9.0"
+gem "unicorn", "5.0.0"
 gem "remote_syslog_logger", "1.0.3"
 gem "dotenv", "2.1.1"
